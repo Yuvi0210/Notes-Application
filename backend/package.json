@@ -1,0 +1,28 @@
+{
+  "name": "inotebook-backend",
+  "version": "1.0.0",
+  "description": "Cloud Notebook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.0",
+    "express-validator": "^6.14.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongodb": "^6.7.0",
+    "mongoose": "^6.13.0",
+    "multer": "^1.4.5-lts.1",
+    "multer-gridfs-storage": "^5.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
