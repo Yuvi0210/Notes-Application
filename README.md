@@ -1,6 +1,6 @@
 # 📒 New Notes App
 
-Welcome to the **New Notes App**! This is a simple and elegant notes application built with React. The project has been redesigned for a fresh look and feel while maintaining the original functionalities.
+Welcome to the **New Notes App**! This is a simple and elegant notes application built with React. 
 
 ## ✨ Features
 
