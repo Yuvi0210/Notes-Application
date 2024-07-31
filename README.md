@@ -38,36 +38,23 @@ Ensure you have the following installed:
   npm run build
 
 
-**📂 Project Structure **
+📂 Project Structure 
 css
 Copy code
 src/
-  components/
-  
-    Header.js
-    
-    Header.css
-    
-    Note.js
-    
-    Note.css
-    
-  App.js
-  
-  App.css
-  
-  index.js
-  
+  components/  
+    Header.js    
+    Header.css    
+    Note.js    
+    Note.css    
+  App.js  
+  App.css  
+  index.js  
 public/
-
-  index.html
-  
-  favicon.ico
-  
-  ...
-  
+  index.html  
+  favicon.ico  
+  ...  
 package.json
-
 README.md 
   
 
