@@ -43,26 +43,3 @@ Ensure you have the following installed:
   To create a production build, run:**
    ```bash
    npm run build
-
-## Project Structure
-
-The project structure is as follows:
-## Project Structure
-
-The project structure is as follows:
-
-📂 Project Root
-├── public/
-│   ├── index.html
-│   └── favicon.ico
-├── src/
-│   ├── components/
-│   │   ├── Header.js
-│   │   └── Header.css
-│   ├── Note.js
-│   ├── Note.css
-│   ├── App.js
-│   ├── App.css
-│   └── index.js
-├── package.json
-└── README.md
