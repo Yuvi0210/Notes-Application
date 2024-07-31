@@ -29,17 +29,17 @@ Ensure you have the following installed:
    ```bash
    cd Notes-Application
 
-4. **Install the dependencies:**
+3. **Install the dependencies:**
    ```bash
    npm install
 
-6. **🏃‍♂️ Running the Application
+4. **🏃‍♂️ Running the Application
   Start the development server:**
    ```bash
     npm start
   Open it on your local machine
   
-7. **🛠️ Building for Production
+5. **🛠️ Building for Production
   To create a production build, run:**
    ```bash
    npm run build
