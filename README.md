@@ -26,16 +26,23 @@ Ensure you have the following installed:
    ```bash
    git clone https://github.com/Yuvraj0210/Notes-Application.git
 2. **Navigate to the project directory:**
+   ```bash
    cd Notes-Application
-3. **Install the dependencies:**
-    npm install
-4. **🏃‍♂️ Running the Application
+
+4. **Install the dependencies:**
+   ```bash
+   npm install
+
+6. **🏃‍♂️ Running the Application
   Start the development server:**
-  Using npm: npm start
+   ```bash
+    npm start
   Open it on your local machine
-6. **🛠️ Building for Production
+  
+7. **🛠️ Building for Production
   To create a production build, run:**
-  npm run build
+   ```bash
+   npm run build
 
 
 📂 Project Structure 
