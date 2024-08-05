@@ -1,6 +1,7 @@
-# 📒 New Notes App
+![image](https://github.com/user-attachments/assets/2e2d1da2-b5bf-4e48-86f6-6fe608f81201)# 📒 New Notes App
 
 Welcome to the **New Notes App**! This is a simple and elegant notes application built with React. 
+Live hosted link - https://yuvrajnotesapp.netlify.app/
 
 ## ✨ Features
 
