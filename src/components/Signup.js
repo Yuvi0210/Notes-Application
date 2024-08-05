@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import bgImg from '../Images/bg.jpg'
 
-const BASE_URL = "https://yuvrajnotesapp.netlify.app/"
+const BASE_URL = "https://notes-files-kzr6.onrender.com"
 
 const Signup = (props) => {
 
