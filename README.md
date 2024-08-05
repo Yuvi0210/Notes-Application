@@ -44,3 +44,21 @@ Ensure you have the following installed:
   To create a production build, run:**
    ```bash
    npm run build
+
+### Signup Page
+![Signup Page](https://github.com/Yuvraj0210/Notes-Application/blob/main/1.%20Signup%20page.jpeg)
+
+### Loading Page
+![Loading Page](https://github.com/Yuvraj0210/Notes-Application/blob/main/2.%20Loading%20page.jpeg)
+
+### Main Page
+![Main Page](https://github.com/Yuvraj0210/Notes-Application/blob/main/3.%20Main.jpeg)
+
+### Add Note Page
+![Add Note Page](https://github.com/Yuvraj0210/Notes-Application/blob/main/4.%20Add%20Note.jpeg)
+
+### All Notes Page
+![All Notes Page](https://github.com/Yuvraj0210/Notes-Application/blob/main/5.%20All%20Notes.jpeg)
+
+### Login Page
+![Login Page](https://github.com/Yuvraj0210/Notes-Application/blob/main/6.%20Login%20Page.jpeg)
